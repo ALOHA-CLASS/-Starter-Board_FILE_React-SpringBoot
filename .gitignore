@@ -1,3 +1,17 @@
+# vscode 관련
+.vscode
+./vscode
+
+# Node 관련
+logs
+node_modules/
+
+
+# Java 관련
+build/
+gradle/
+.gradle/
+
 # Compiled class file
 *.class
 
